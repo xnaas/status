@@ -10,8 +10,6 @@ sites:
       - 401
       - 403
     icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/favicon.ico
-  - name: NAS
-    url: https://home.xnaas.info
   - name: thelounge
     url: https://irc.xnaas.info
   - name: KB
@@ -20,8 +18,10 @@ sites:
     url: https://live.xnaas.info
   - name: Music
     url: https://music.xnaas.info
-  - name: Joplin
+    icon: https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png
+  - name: Notes
     url: https://notes.xnaas.info
+    icon: https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/SquareIcon512.png
   - name: Plex
     url: https://plex.xnaas.info
     expectedStatusCodes:
@@ -42,6 +42,7 @@ sites:
     icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/assets/static/favicon-16x16.png
   - name: Grafana
     url: https://teslag.xnaas.info
+    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/assets/static/favicon-16x16.png
 
 status-website:
   cname: status.xnaas.info
