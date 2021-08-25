@@ -53,6 +53,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Statuspage.io
+      href: https://xnaas.statuspage.io/
     - title: xnaas.info
       href: https://xnaas.info
   theme: dark
