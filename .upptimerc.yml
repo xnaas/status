@@ -4,6 +4,44 @@ repo: status
 sites:
   - name: Homepage
     url: https://xnaas.info
+  - name: Scrutiny
+    url: https://drive-status.xnaas.info
+    expectedStatusCodes:
+      - 401
+      - 403
+    icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/favicon.ico
+  - name: NAS
+    url: https://home.xnaas.info
+  - name: thelounge
+    url: https://irc.xnaas.info
+  - name: KB
+    url: https://kb.xnaas.info
+  - name: Owncast
+    url: https://live.xnaas.info
+  - name: Music
+    url: https://music.xnaas.info
+  - name: Joplin
+    url: https://notes.xnaas.info
+  - name: Plex
+    url: https://plex.xnaas.info
+    expectedStatusCodes:
+      - 401
+      - 403
+    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-16x16.png
+  - name: PlexPy
+    url: https://plexpy.xnaas.info
+  - name: Overseerr
+    url: https://request.xnaas.info
+  - name: FreshRSS
+    url: https://rss.xnaas.info
+  - name: TeslaMate
+    url: https://tesla.xnaas.info
+    expectedStatusCodes:
+      - 401
+      - 403
+    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/assets/static/favicon-16x16.png
+  - name: Grafana
+    url: https://teslag.xnaas.info
 
 status-website:
   cname: status.xnaas.info
