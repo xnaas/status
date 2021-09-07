@@ -1,7 +1,7 @@
 url: https://plex.xnaas.info
-status: down
-code: 502
-responseTime: 392
-lastUpdated: 2021-09-07T22:47:05.209Z
+status: up
+code: 401
+responseTime: 199
+lastUpdated: 2021-09-07T22:52:15.799Z
 startTime: Wed Aug 25 2021 04:04:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
