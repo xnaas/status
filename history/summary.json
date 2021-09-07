@@ -142,18 +142,20 @@
     "url": "https://plex.xnaas.info",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-16x16.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 180,
-    "timeWeek": 213,
-    "timeMonth": 222,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 286,
+    "timeWeek": 236,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2021-09-07": 0
+    }
   },
   {
     "name": "PlexPy",
