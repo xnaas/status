@@ -35,9 +35,9 @@ sites:
   - name: FreshRSS
     url: https://rss.xnaas.info
     icon: https://raw.githubusercontent.com/FreshRSS/FreshRSS/edge/p/favicon.ico
-  # - name: TeslaMate
-  #  url: https://$LOGIN@tesla.xnaas.info
-  #  icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico
+  - name: TeslaMate
+    url: https://$LOGIN@tesla.xnaas.info
+    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico
   - name: Grafana
     url: https://teslag.xnaas.info
     icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico
