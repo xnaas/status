@@ -4,22 +4,20 @@ repo: status
 sites:
   - name: Homepage
     url: https://xnaas.info
-  - name: Scrutiny
-    url: https://drive-status.xnaas.info
-    expectedStatusCodes:
-      - 401
-      - 403
-    icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/favicon.ico
+    icon: https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico
   - name: thelounge
     url: https://irc.xnaas.info
+    icon: https://irc.xnaas.info/favicon.ico
   - name: KB
     url: https://kb.xnaas.info
+    icon: https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico
   - name: Owncast
     url: https://live.xnaas.info
-  - name: Music
+    icon: https://raw.githubusercontent.com/owncast/owncast/develop/webroot/img/favicon/favicon-32x32.png
+  - name: Navidrome
     url: https://music.xnaas.info
     icon: https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png
-  - name: Notes
+  - name: Joplin
     url: https://notes.xnaas.info
     icon: https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/SquareIcon512.png
   - name: Plex
@@ -27,27 +25,27 @@ sites:
     expectedStatusCodes:
       - 401
       - 403
-    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-16x16.png
+    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png
   - name: PlexPy
     url: https://plexpy.xnaas.info
+    icon: https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon-32x32.png
   - name: Overseerr
     url: https://request.xnaas.info
+    icon: https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico
   - name: FreshRSS
     url: https://rss.xnaas.info
+    icon: https://raw.githubusercontent.com/FreshRSS/FreshRSS/edge/p/favicon.ico
   - name: TeslaMate
-    url: https://tesla.xnaas.info
-    expectedStatusCodes:
-      - 401
-      - 403
-    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/assets/static/favicon-16x16.png
+    url: https://$LOGIN@tesla.xnaas.info
+    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico
   - name: Grafana
     url: https://teslag.xnaas.info
-    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/assets/static/favicon-16x16.png
+    icon: https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico
 
 status-website:
   cname: status.xnaas.info
   logoUrl: https://xnaas.info/avatar.jpg
-  favicon: https://xnaas.info/favicon.ico
+  favicon: https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico
   name: xnaas-status
   introMessage: Status page for my self-hosted stuffs.
   navbar:
