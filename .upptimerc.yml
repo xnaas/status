@@ -44,7 +44,7 @@ sites:
 
 status-website:
   cname: status.xnaas.info
-  logoUrl: https://xnaas.info/avatar.jpg
+  logoUrl: https://xnaas.info/tux.jpg
   favicon: https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico
   name: xnaas-status
   introMessage: Status page for my self-hosted stuffs.
