@@ -46,9 +46,9 @@
     "url": "https://kb.xnaas.info",
     "icon": "https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico",
     "slug": "kb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -58,6 +58,7 @@
     "timeMonth": 304,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2022-01-24": 0,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
