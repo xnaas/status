@@ -106,19 +106,19 @@
     "url": "https://notes.xnaas.info",
     "icon": "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/SquareIcon512.png",
     "slug": "joplin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 654,
-    "timeWeek": 387,
-    "timeMonth": 364,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 346,
+    "timeDay": 695,
+    "timeWeek": 420,
+    "timeMonth": 376,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 10
     }
   },
   {
