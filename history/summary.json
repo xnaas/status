@@ -13,7 +13,7 @@
     "time": 364,
     "timeDay": 302,
     "timeWeek": 232,
-    "timeMonth": 581,
+    "timeMonth": 598,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2021-10-27": 109,
@@ -34,7 +34,7 @@
     "time": 315,
     "timeDay": 309,
     "timeWeek": 291,
-    "timeMonth": 337,
+    "timeMonth": 334,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2021-10-27": 109,
@@ -55,7 +55,7 @@
     "time": 324,
     "timeDay": 501,
     "timeWeek": 334,
-    "timeMonth": 371,
+    "timeMonth": 374,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2021-10-27": 108,
@@ -76,7 +76,7 @@
     "time": 287,
     "timeDay": 292,
     "timeWeek": 284,
-    "timeMonth": 316,
+    "timeMonth": 323,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2021-10-27": 108,
@@ -97,7 +97,7 @@
     "time": 374,
     "timeDay": 542,
     "timeWeek": 385,
-    "timeMonth": 402,
+    "timeMonth": 403,
     "timeYear": 374,
     "dailyMinutesDown": {}
   },
@@ -115,7 +115,7 @@
     "time": 588,
     "timeDay": 765,
     "timeWeek": 857,
-    "timeMonth": 922,
+    "timeMonth": 944,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -124,18 +124,19 @@
     "url": "https://plex.xnaas.info",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 281,
-    "timeDay": 300,
-    "timeWeek": 254,
-    "timeMonth": 298,
+    "timeDay": 264,
+    "timeWeek": 251,
+    "timeMonth": 296,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2021-10-27": 108
     }
   },
@@ -153,7 +154,7 @@
     "time": 385,
     "timeDay": 272,
     "timeWeek": 349,
-    "timeMonth": 333,
+    "timeMonth": 338,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2021-10-27": 108,
@@ -174,7 +175,7 @@
     "time": 462,
     "timeDay": 541,
     "timeWeek": 475,
-    "timeMonth": 526,
+    "timeMonth": 537,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2021-10-27": 108,
@@ -195,7 +196,7 @@
     "time": 253,
     "timeDay": 222,
     "timeWeek": 229,
-    "timeMonth": 288,
+    "timeMonth": 292,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2021-10-27": 108,
@@ -216,7 +217,7 @@
     "time": 359,
     "timeDay": 252,
     "timeWeek": 461,
-    "timeMonth": 340,
+    "timeMonth": 346,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2022-02-01": 62,
@@ -238,7 +239,7 @@
     "time": 307,
     "timeDay": 314,
     "timeWeek": 339,
-    "timeMonth": 310,
+    "timeMonth": 313,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2022-02-01": 41,
