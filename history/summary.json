@@ -27,9 +27,9 @@
     "slug": "thelounge",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 313,
     "timeDay": 248,
@@ -37,7 +37,6 @@
     "timeMonth": 287,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2022-04-25": 9,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -126,18 +125,17 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 280,
     "timeDay": 260,
     "timeWeek": 249,
     "timeMonth": 265,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-04-25": 9,
       "2021-10-27": 108
     }
   },
