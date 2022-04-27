@@ -4,19 +4,19 @@
     "url": "https://xnaas.info",
     "icon": "https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 402,
-    "timeDay": 4252,
-    "timeWeek": 1673,
-    "timeMonth": 663,
+    "timeDay": 3268,
+    "timeWeek": 1537,
+    "timeMonth": 653,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
+      "2022-04-27": 0,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -28,9 +28,9 @@
     "slug": "thelounge",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 312,
     "timeDay": 240,
@@ -38,7 +38,6 @@
     "timeMonth": 281,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -50,9 +49,9 @@
     "slug": "kb",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 323,
     "timeDay": 251,
@@ -60,7 +59,6 @@
     "timeMonth": 319,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -72,9 +70,9 @@
     "slug": "owncast",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 288,
     "timeDay": 240,
@@ -82,7 +80,6 @@
     "timeMonth": 287,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -94,18 +91,16 @@
     "slug": "navidrome",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 211,
     "timeWeek": 389,
     "timeMonth": 363,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2022-04-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Joplin",
@@ -114,18 +109,16 @@
     "slug": "joplin",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 545,
     "timeWeek": 679,
     "timeMonth": 764,
     "timeYear": 614,
-    "dailyMinutesDown": {
-      "2022-04-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -133,18 +126,17 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 279,
     "timeDay": 175,
     "timeWeek": 228,
     "timeMonth": 259,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 108
     }
   },
@@ -175,18 +167,17 @@
     "icon": "https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 458,
     "timeDay": 301,
     "timeWeek": 364,
     "timeMonth": 435,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -197,18 +188,17 @@
     "icon": "https://raw.githubusercontent.com/FreshRSS/FreshRSS/edge/p/favicon.ico",
     "slug": "fresh-rss",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 252,
     "timeDay": 185,
     "timeWeek": 224,
     "timeMonth": 240,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-04-27": 10,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
