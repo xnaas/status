@@ -1,7 +1,7 @@
 url: https://rss.xnaas.info
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2022-05-07T13:59:08.197Z
+status: down
+code: 502
+responseTime: 257
+lastUpdated: 2022-05-07T14:05:26.549Z
 startTime: Wed Aug 25 2021 04:04:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
