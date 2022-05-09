@@ -17,9 +17,6 @@ sites:
   - name: Navidrome
     url: https://music.xnaas.info
     icon: https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png
-  - name: Joplin
-    url: https://notes.xnaas.info
-    icon: https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/SquareIcon512.png
   - name: Plex
     url: https://plex.xnaas.info
     expectedStatusCodes:
