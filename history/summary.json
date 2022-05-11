@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 425,
     "timeDay": 303,
-    "timeWeek": 1036,
+    "timeWeek": 238,
     "timeMonth": 862,
     "timeYear": 425,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "url": "https://irc.xnaas.info",
     "icon": "https://irc.xnaas.info/favicon.ico",
     "slug": "thelounge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 310,
-    "timeDay": 295,
-    "timeWeek": 299,
-    "timeMonth": 287,
+    "timeDay": 364,
+    "timeWeek": 279,
+    "timeMonth": 291,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2022-05-11": 0,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -54,7 +55,7 @@
     "uptimeYear": "99.97%",
     "time": 327,
     "timeDay": 957,
-    "timeWeek": 369,
+    "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -75,7 +76,7 @@
     "uptimeYear": "99.97%",
     "time": 288,
     "timeDay": 445,
-    "timeWeek": 309,
+    "timeWeek": 279,
     "timeMonth": 308,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -96,7 +97,7 @@
     "uptimeYear": "100.00%",
     "time": 369,
     "timeDay": 401,
-    "timeWeek": 332,
+    "timeWeek": 313,
     "timeMonth": 364,
     "timeYear": 369,
     "dailyMinutesDown": {}
@@ -114,7 +115,7 @@
     "uptimeYear": "99.92%",
     "time": 277,
     "timeDay": 161,
-    "timeWeek": 278,
+    "timeWeek": 241,
     "timeMonth": 260,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -155,7 +156,7 @@
     "uptimeYear": "99.97%",
     "time": 457,
     "timeDay": 447,
-    "timeWeek": 431,
+    "timeWeek": 402,
     "timeMonth": 423,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -176,7 +177,7 @@
     "uptimeYear": "99.97%",
     "time": 254,
     "timeDay": 287,
-    "timeWeek": 278,
+    "timeWeek": 258,
     "timeMonth": 261,
     "timeYear": 254,
     "dailyMinutesDown": {
