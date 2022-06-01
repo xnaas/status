@@ -27,9 +27,9 @@
     "slug": "thelounge",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 307,
     "timeDay": 294,
@@ -37,7 +37,6 @@
     "timeMonth": 278,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2022-06-01": 5,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -49,9 +48,9 @@
     "slug": "kb",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 324,
     "timeDay": 191,
@@ -59,7 +58,6 @@
     "timeMonth": 321,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-06-01": 4,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -71,9 +69,9 @@
     "slug": "owncast",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
     "timeDay": 272,
@@ -81,7 +79,6 @@
     "timeMonth": 283,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2022-06-01": 4,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -111,9 +108,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 276,
     "timeDay": 244,
@@ -121,7 +118,6 @@
     "timeMonth": 263,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-06-01": 4,
       "2021-10-27": 108
     }
   },
@@ -174,9 +170,9 @@
     "slug": "fresh-rss",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 252,
     "timeDay": 251,
@@ -184,7 +180,6 @@
     "timeMonth": 253,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-06-01": 3,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -194,18 +189,19 @@
     "url": "https://tesla.xnaas.info",
     "icon": "https://raw.githubusercontent.com/adriankumpf/teslamate/master/website/static/img/favicon.ico",
     "slug": "tesla-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 344,
-    "timeDay": 413,
-    "timeWeek": 305,
-    "timeMonth": 293,
-    "timeYear": 344,
+    "time": 343,
+    "timeDay": 234,
+    "timeWeek": 274,
+    "timeMonth": 286,
+    "timeYear": 343,
     "dailyMinutesDown": {
+      "2022-06-01": 0,
       "2022-02-01": 62,
       "2022-01-12": 22,
       "2021-10-27": 107
@@ -218,9 +214,9 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 301,
     "timeDay": 229,
@@ -228,7 +224,6 @@
     "timeMonth": 274,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-06-01": 3,
       "2022-02-01": 41,
       "2021-10-27": 107,
       "2021-09-04": 16
