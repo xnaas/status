@@ -4,11 +4,11 @@
     "url": "https://xnaas.info",
     "icon": "https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 432,
     "timeDay": 313,
@@ -16,7 +16,7 @@
     "timeMonth": 534,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2022-06-21": 16,
+      "2022-06-21": 20,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -26,10 +26,10 @@
     "url": "https://irc.xnaas.info",
     "icon": "https://irc.xnaas.info/favicon.ico",
     "slug": "thelounge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 377,
@@ -38,7 +38,7 @@
     "timeMonth": 947,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-06-21": 16,
+      "2022-06-21": 19,
       "2021-10-27": 109,
       "2021-09-04": 16
     }
@@ -48,10 +48,10 @@
     "url": "https://kb.xnaas.info",
     "icon": "https://raw.githubusercontent.com/xnaas/kb.xnaas.info/master/src/docs/favicon.ico",
     "slug": "kb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 319,
@@ -60,7 +60,7 @@
     "timeMonth": 263,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-06-21": 16,
+      "2022-06-21": 18,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -70,11 +70,11 @@
     "url": "https://live.xnaas.info",
     "icon": "https://raw.githubusercontent.com/owncast/owncast/develop/webroot/img/favicon/favicon-32x32.png",
     "slug": "owncast",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 283,
     "timeDay": 254,
@@ -82,7 +82,7 @@
     "timeMonth": 251,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-06-21": 15,
+      "2022-06-21": 17,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -92,19 +92,19 @@
     "url": "https://music.xnaas.info",
     "icon": "https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png",
     "slug": "navidrome",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 367,
     "timeWeek": 332,
     "timeMonth": 371,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-06-21": 15
+      "2022-06-21": 0
     }
   },
   {
@@ -114,9 +114,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 273,
     "timeDay": 177,
@@ -124,7 +124,6 @@
     "timeMonth": 250,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-06-21": 14,
       "2021-10-27": 108
     }
   },
@@ -156,9 +155,9 @@
     "slug": "overseerr",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 477,
     "timeDay": 373,
@@ -166,7 +165,6 @@
     "timeMonth": 655,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2022-06-21": 14,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
@@ -178,9 +176,9 @@
     "slug": "fresh-rss",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 251,
     "timeDay": 208,
@@ -188,7 +186,6 @@
     "timeMonth": 235,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-06-21": 13,
       "2021-10-27": 108,
       "2021-09-04": 16
     }
